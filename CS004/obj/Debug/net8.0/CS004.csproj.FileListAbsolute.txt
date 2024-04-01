@@ -1,0 +1,15 @@
+/Users/huongcuc/Desktop/Csharp/CS004/bin/Debug/net8.0/CS004
+/Users/huongcuc/Desktop/Csharp/CS004/bin/Debug/net8.0/CS004.deps.json
+/Users/huongcuc/Desktop/Csharp/CS004/bin/Debug/net8.0/CS004.runtimeconfig.json
+/Users/huongcuc/Desktop/Csharp/CS004/bin/Debug/net8.0/CS004.dll
+/Users/huongcuc/Desktop/Csharp/CS004/bin/Debug/net8.0/CS004.pdb
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.AssemblyInfoInputs.cache
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.AssemblyInfo.cs
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.csproj.CoreCompileInputs.cache
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.sourcelink.json
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.dll
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/refint/CS004.dll
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.pdb
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/CS004.genruntimeconfig.cache
+/Users/huongcuc/Desktop/Csharp/CS004/obj/Debug/net8.0/ref/CS004.dll
