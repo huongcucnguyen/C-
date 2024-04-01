@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTCLjdWaCscGB1r/D9FDzA+e0/bGnuYc/LBUH70sB9LLurEOH2vugVR/BNc8DRWoJJjEmtgv2NVteB0NhkF2og==",
+  "success": true,
+  "projectFilePath": "/Users/huongcuc/Desktop/CS001_Helloworld/CS001_Helloworld.csproj",
+  "expectedPackageFiles": [
+    "/Users/huongcuc/.nuget/packages/microsoft.applicationinsights/2.22.0/microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "/Users/huongcuc/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

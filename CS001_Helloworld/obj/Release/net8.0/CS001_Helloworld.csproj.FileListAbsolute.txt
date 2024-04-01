@@ -1,0 +1,17 @@
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/CS001_Helloworld
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/CS001_Helloworld.deps.json
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/CS001_Helloworld.runtimeconfig.json
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/CS001_Helloworld.dll
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/CS001_Helloworld.pdb
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/Microsoft.ApplicationInsights.dll
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.csproj.AssemblyReference.cache
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.AssemblyInfoInputs.cache
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.AssemblyInfo.cs
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.csproj.CoreCompileInputs.cache
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_He.C2C85A61.Up2Date
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.dll
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/refint/CS001_Helloworld.dll
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.pdb
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/CS001_Helloworld.genruntimeconfig.cache
+/Users/huongcuc/Desktop/CS001_Helloworld/obj/Release/net8.0/ref/CS001_Helloworld.dll

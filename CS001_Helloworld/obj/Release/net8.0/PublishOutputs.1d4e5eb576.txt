@@ -1,0 +1,6 @@
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/publish/CS001_Helloworld
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/publish/CS001_Helloworld.dll
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/publish/CS001_Helloworld.deps.json
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/publish/CS001_Helloworld.runtimeconfig.json
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/publish/CS001_Helloworld.pdb
+/Users/huongcuc/Desktop/CS001_Helloworld/bin/Release/net8.0/publish/Microsoft.ApplicationInsights.dll

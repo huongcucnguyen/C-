@@ -1,0 +1,5 @@
+/Users/huongcuc/Desktop/CS002/bin/Release/net8.0/publish/CS002
+/Users/huongcuc/Desktop/CS002/bin/Release/net8.0/publish/CS002.dll
+/Users/huongcuc/Desktop/CS002/bin/Release/net8.0/publish/CS002.deps.json
+/Users/huongcuc/Desktop/CS002/bin/Release/net8.0/publish/CS002.runtimeconfig.json
+/Users/huongcuc/Desktop/CS002/bin/Release/net8.0/publish/CS002.pdb

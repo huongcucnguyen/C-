@@ -1,0 +1,14 @@
+/Users/huongcuc/Desktop/CS002/bin/Debug/net8.0/CS002
+/Users/huongcuc/Desktop/CS002/bin/Debug/net8.0/CS002.deps.json
+/Users/huongcuc/Desktop/CS002/bin/Debug/net8.0/CS002.runtimeconfig.json
+/Users/huongcuc/Desktop/CS002/bin/Debug/net8.0/CS002.dll
+/Users/huongcuc/Desktop/CS002/bin/Debug/net8.0/CS002.pdb
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.AssemblyInfoInputs.cache
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.AssemblyInfo.cs
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.csproj.CoreCompileInputs.cache
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.dll
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/refint/CS002.dll
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.pdb
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/CS002.genruntimeconfig.cache
+/Users/huongcuc/Desktop/CS002/obj/Debug/net8.0/ref/CS002.dll
