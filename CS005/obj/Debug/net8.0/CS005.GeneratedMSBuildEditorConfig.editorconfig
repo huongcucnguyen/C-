@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CS005
-build_property.ProjectDir = /Users/archway-project/Desktop/Csharp/CS005/
+build_property.ProjectDir = /Users/huongcuc/Desktop/Csharp/CS005/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

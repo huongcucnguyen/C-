@@ -8,25 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/archway-project/.nuget/packages/": {}
+    "/Users/huongcuc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/archway-project/Desktop/Csharp/CS005/CS005.csproj",
+      "projectUniqueName": "/Users/huongcuc/Desktop/Csharp/CS005/CS005.csproj",
       "projectName": "CS005",
-      "projectPath": "/Users/archway-project/Desktop/Csharp/CS005/CS005.csproj",
-      "packagesPath": "/Users/archway-project/.nuget/packages/",
-      "outputPath": "/Users/archway-project/Desktop/Csharp/CS005/obj/",
+      "projectPath": "/Users/huongcuc/Desktop/Csharp/CS005/CS005.csproj",
+      "packagesPath": "/Users/huongcuc/.nuget/packages/",
+      "outputPath": "/Users/huongcuc/Desktop/Csharp/CS005/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/archway-project/.nuget/NuGet/NuGet.Config"
+        "/Users/huongcuc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
