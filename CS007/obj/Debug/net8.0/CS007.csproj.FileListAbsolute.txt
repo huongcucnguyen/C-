@@ -1,0 +1,15 @@
+/Users/huongcuc/Desktop/Csharp/CS007/bin/Debug/net8.0/CS007
+/Users/huongcuc/Desktop/Csharp/CS007/bin/Debug/net8.0/CS007.deps.json
+/Users/huongcuc/Desktop/Csharp/CS007/bin/Debug/net8.0/CS007.runtimeconfig.json
+/Users/huongcuc/Desktop/Csharp/CS007/bin/Debug/net8.0/CS007.dll
+/Users/huongcuc/Desktop/Csharp/CS007/bin/Debug/net8.0/CS007.pdb
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.AssemblyInfoInputs.cache
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.AssemblyInfo.cs
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.csproj.CoreCompileInputs.cache
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.sourcelink.json
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.dll
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/refint/CS007.dll
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.pdb
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/CS007.genruntimeconfig.cache
+/Users/huongcuc/Desktop/Csharp/CS007/obj/Debug/net8.0/ref/CS007.dll
