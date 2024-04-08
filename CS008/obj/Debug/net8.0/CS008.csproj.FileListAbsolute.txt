@@ -1,0 +1,15 @@
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.AssemblyInfoInputs.cache
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.AssemblyInfo.cs
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.csproj.CoreCompileInputs.cache
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.sourcelink.json
+/Users/huongcuc/Desktop/Csharp/CS008/bin/Debug/net8.0/CS008
+/Users/huongcuc/Desktop/Csharp/CS008/bin/Debug/net8.0/CS008.deps.json
+/Users/huongcuc/Desktop/Csharp/CS008/bin/Debug/net8.0/CS008.runtimeconfig.json
+/Users/huongcuc/Desktop/Csharp/CS008/bin/Debug/net8.0/CS008.dll
+/Users/huongcuc/Desktop/Csharp/CS008/bin/Debug/net8.0/CS008.pdb
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.dll
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/refint/CS008.dll
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.pdb
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/CS008.genruntimeconfig.cache
+/Users/huongcuc/Desktop/Csharp/CS008/obj/Debug/net8.0/ref/CS008.dll
